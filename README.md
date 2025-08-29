@@ -16,7 +16,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/zorru0/BrokexProtocol-bot
+git clone https://github.com/ox1nec/BrokexProtocol-bot
 cd BrokexProtocol-bot
 run.bat
 ```
@@ -24,7 +24,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/zorru0/BrokexProtocol-bot
+git clone https://github.com/ox1nec/BrokexProtocol-bot
 cd BrokexProtocol-bot
 pip install -r requirements.txt
 python bot.py
