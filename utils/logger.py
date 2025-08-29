@@ -22,7 +22,7 @@ if QT_AVAILABLE:
             self.text_edit = text_edit
             self.signals = LogSignals()
             self.signals.new_log.connect(self.append_message)
-
+ 
         def write(self, message: str):
             clean_message = clean_brackets(message)
             
